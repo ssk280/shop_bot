@@ -45,7 +45,7 @@ async def handle_buttons(update: Update, context: ContextTypes.DEFAULT_TYPE):
 
 
 def main():
-    TOKEN = "9153410830:AAG_S3UIi5J6akjltqyIuPuzRXZq1z44VPU"
+    TOKEN = "9066884590:AAHjEAm2s0abK6Ik0EXZfB4v6EYsILJw9rM"
 
     app = ApplicationBuilder().token(TOKEN).build()
 
